@@ -1,0 +1,14 @@
+build
+CMakeFiles
+Makefile
+cmake_install.cmake
+CMakeCache.txt
+CPackConfig.cmake
+CPackSourceConfig.cmake
+install_manifest.txt
+cmake.h
+commit.h
+_CPack_Packages
+patches
+*.exe
+*~
